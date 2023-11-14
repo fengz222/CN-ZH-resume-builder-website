@@ -1,11 +1,11 @@
-# 免费简历制作网站收集
+# 简历制作网站收集
 
-## 英文简历制作：
-#### Overleaf 使用 Latex 制作 PDF 简历
+## English CV making：
+#### Overleaf make PDF resume using Latex
 
 https://www.overleaf.com/latex/templates/tagged/cv
 
-#### 开源英文简历制作网站
+#### open source cv making website
 
 https://resumake.io/
 
